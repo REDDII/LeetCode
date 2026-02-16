@@ -18,10 +18,8 @@ class Solution {
         }
 
         if (original == reversed) {
-            System.out.println("palindrome");
             return true;
         } else {
-            System.out.println("not palindrome");
             return false;
         }
 
